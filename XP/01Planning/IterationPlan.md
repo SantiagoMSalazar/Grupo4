@@ -45,17 +45,3 @@
 **Coding**
 
 ### Tiempo:
-
-
-## Iteración 3
-
-
-### Artefactos
-**Design**
-
-
-**Coding**
-
-
-### Tiempo:
-
