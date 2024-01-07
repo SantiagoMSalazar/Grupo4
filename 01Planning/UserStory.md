@@ -29,8 +29,8 @@
             </div>
             <div style= "margin-left:5px"> 
                 Nro: HU1 <br>
-                Nivel de prioridad: Alto <br>
-                Riesgo en desarrollo: Alto
+                Nivel de prioridad: <br>
+                Riesgo en desarrollo: 
             </div>
         </div>
     </th>
