@@ -16,14 +16,9 @@
 
 # Metafora
 
-Yoghismo es una aplicación web que permite al usuario traducir nombres de posturas en Sanscrito llamadas comúnmente **Asanas** inglés y español, descompone morfemas para identificar la raíz de la palabra y ofrece una guía visual para el aprendizaje de los usuarios.
+Yoghismo es una aplicación web diseñada para facilitar la traducción de los nombres de las posturas en sánscrito, conocidas como Asanas, al inglés y al español. La herramienta descompone los morfemas de las palabras para identificar sus raíces, ofreciendo a los usuarios una guía visual para aprender estas posturas.
 
-Este sistema presenta una solución que solventa las necesidades de los aficionados al yoga por conocer las posturas más famosas y tener a la mano una solución simple y rápida que evite distracciones, alineado con la filosofía del Yoga.
-
-- El usuario tiene la posibilidad de ingresar un texto en sanscrito en una caja de texto, a continuación se presentan dos escenarios:
-    1. Se continúa con el flujo normal de la búsqueda, identificando de manera visual las posturas y una guía de como hacerla.
-    2. Se indica una situación en la que no exista esa postura por un error gramatical, de tal forma que el sistema recomiende 
-
+Esta solución responde a las necesidades de los entusiastas del yoga que desean familiarizarse con las posturas más reconocidas, proporcionando una solución simple y ágil que minimiza las distracciones, en sintonía con la filosofía del Yoga.
 
 ## Roles
 | Nombre      | Rol |
