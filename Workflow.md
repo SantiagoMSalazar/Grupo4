@@ -6,13 +6,5 @@
 
 ### Grupo: 4
 
-### Integrantes
-- Kevin Revelo
-- Paúl Román
-- Jonathan Salazar
-- Santiago Salazar
-- Sebastián Sanchez
-- Nathaly Simba
-
 # WorkFlow
-z|
+![alt text](Workflow_diagram.png)
