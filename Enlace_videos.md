@@ -23,21 +23,22 @@ https://epnecuador-my.sharepoint.com/personal/jonathan_salazar04_epn_edu_ec/_lay
 
 4. Documento de estándares de programación
 https://epnecuador-my.sharepoint.com/personal/santiago_salazar_epn_edu_ec/_layouts/15/stream.aspx?id=%2Fpersonal%2Fsantiago%5Fsalazar%5Fepn%5Fedu%5Fec%2FDocuments%2FGrabaciones%2FVideo%2DGrupo4%2D20240107%5F190530%2DGrabaci%C3%B3n%20de%20la%20reuni%C3%B3n%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview
+
 5. Manual de Usuario
 
 6. Release Plan
 
-7. Diagrama conceptual
-
-8. Diagrama UML
+8. Diagrama conceptual - Diagrama UML
+https://epnecuador-my.sharepoint.com/:v:/g/personal/paul_roman_epn_edu_ec/ETBbSojnLi5AqJv3ftf4RNsBF71ufVjsxZwxL7vW_ti91Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=bgs6m5
 
 9. Prototipos
+https://epnecuador-my.sharepoint.com/:v:/g/personal/jonathan_salazar04_epn_edu_ec/EVMeOT51wlFGv5hQYghpXsIBQ3ksGzAVMuLvXWkuGCOHVQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=pUCVn7
 
 10. Código colectivo
+https://epnecuador-my.sharepoint.com/:v:/g/personal/jonathan_salazar04_epn_edu_ec/EQFz7Iutb89Op6hPmfeTb5oBNC9nxqg101KuU9hYlcjq7g?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=6aCfkd
 
-11. Refactorización
-
-12. Pruebas unitarias
+12. Pruebas unitarias - Integración
+https://epnecuador-my.sharepoint.com/:v:/g/personal/jonathan_salazar04_epn_edu_ec/EePxMYoR_GhGutlN43xPPKIBoNwuWkG-mnF-KRwJFYfxmA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=B9f5hB
 
 13. Pruebas funcionales
 

@@ -1,15 +1,20 @@
-# ESCUELA POLITÉCNICA NACIONAL
-## TECHNOWL S.A.
-# Sistema de traducción de posturas de yoga 
----
-Integrantes: 
-- Chalacama Erick
-- Román Paul
-- Salazar Santiago
-- Suntasig Ariel
-- Yánez David
+<h1 align="center">
+    Escuela Politécnica Nacional<br>
+    Facultad de Ingeniería en Sistemas<br>
+    Metodologías Ágiles<br>
+</h1>
 
-Versión: 1.0
+[Video de evidencia](https://epnecuador-my.sharepoint.com/:v:/g/personal/jonathan_salazar04_epn_edu_ec/EQFz7Iutb89Op6hPmfeTb5oBNC9nxqg101KuU9hYlcjq7g?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=6aCfkd)
+
+### Grupo: 4
+
+### Integrantes
+- Kevin Revelo
+- Paúl Román
+- Jonathan Salazar
+- Santiago Salazar
+- Sebastián Sanchez
+- Nathaly Simba
 ---
 El sistema de traducción de posturas cuenta con dos carpetas principales: 
  - docs
