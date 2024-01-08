@@ -16,59 +16,13 @@
 
 # Planeación de Iteraciones
 
-## Iteración 1
-# Historias De Usuario del sistema de traducción YOGHISMO
-
-|***N°: 1***|**Título:** Visualización de nombres de posturas en tres idiomas|
-|-|-|
-|**Historia de usuario:**|**Como** usuario del sistema, **quiero** ver los nombres de las posturas en tres idiomas diferentes, **para** aprender su significado.|
-|**Criterio de aceptación:**|**Dado** que el usuario ingresa una postura, **cuando** el software muestra la información de la postura, **entonces** el software permitirá la visualización del nombre de la postura en tres idiomas diferentes.|
-|||
-
-|***N°: 2***|**Título:** Traducción de nombres de posturas|
-|-|-|
-|**Historia de usuario:**|**Como** usuario del sistema, **quiero** escribir los nombres de las posturas en sánscrito, español o inglés y obtener la traducción en sánscrito, español e inglés, **para** poder comprender su significado y ampliar mi vocabulario.|
-|**Criterio de aceptación:**|**Dado** que el usuario ingresa un nombre de postura en sánscrito, español o inglés, **cuando** el software procesa el nombre, **entonces** el software devuelve la traducción en sánscrito, español e inglés.|
-|||
-
-
-
-### Artefactos
-**Planning**
-
-1. 
-
-**Design**
-
-
-**Coding**
-
-
-### Tiempo:
-
-
-## Iteración 2
-# Historias De Usuario del sistema de traducción YOGHISMO
-
-|***N°: 3***|**Título:** Ver notificación de advertencia al ingresar nombres de posturas inexistentes en el sistema.|
-|-|-|
-|**Historia de usuario:**|**Como** usuario del sistema, **quiero** escribir nombres de posturas inexistentes en el sistema, **para** recibir una notificación del sistema y hacerme saber del ingreso de nombres de posturas inexistentes en el sistema.|
-|**Criterio de aceptación:**|**Dado** que el usuario accede al software, **cuando** ingrese nombres de posturas inexistentes en el sistema y presione "Enter" o sobre el botón de "Buscar", **entonces** se muestra el mensaje de advertencia del nombre de postura inexistente.|
-|||
-
-|***N°: 4***|**Título:** Interfaz de usuario y accesibilidad|
-|-|-|
-|**Historia de usuario:**|**Como** usuario del sistema, **quiero** tener una interfaz de usuario fácil de usar, que considere aspectos de accesibilidad, **para** facilitar mi interacción con el software y mejorar mi experiencia de usuario.|
-|**Criterio de aceptación:**|**Dado** que el usuario accede al software, **cuando** el software muestra la interfaz de usuario, **entonces** el software muestra una interfaz de usuario intuitiva, simple y atractiva, que cumple con los estándares de accesibilidad.|
-|||
-
-### Artefactos
-**Planning**
-
-  
-**Design**
-
-
-**Coding**
-
-### Tiempo:
+| Iteración | Prioridad | Fase        | Artefacto    | Descripción         | Asignado a | Total Horas |
+|-----------|-----------|-------------|--------------|---------------------|------------|-------------|
+| 1         | Alta      | Planning  | Historias de usuario | Recolectar necesidades del cliente | Santiago, Sebastián       | 2          |
+| 1         | Alta      | Planning  | Plan de iteración | Resúmen del proceso de desarrollo | Sebastián       | 1          |
+| 1         | Alta     | Design     | Casos de uso  | Descripción del comportamiento del aplicativo | Paúl     | 1          |
+| 1         | Alta     | Design     | Diagramas de clase  | Validar funcionalidad| Paúl    | 1         |
+| 1         | Alta     | Coding     | Prototipo  | Vista previa del aplicativo| Paúl     | 1          |
+| 1         | Alta     | Coding     | Versión 1  | Versión funcional| Paúl     | 3          |
+| 1         | Alta     | Testing     | Pruebas unitarias | Evaluación por unidades| Kevin     | 1          |
+| 1         | Alta     | Testing     | Pruebas funcionales | Validar funcionalidad| Kevin     | 2          |
