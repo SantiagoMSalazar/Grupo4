@@ -4,6 +4,8 @@
     Metodologías Ágiles<br>
 </h1>
 
+[Link evidencia](https://epnecuador-my.sharepoint.com/:v:/r/personal/santiago_salazar_epn_edu_ec/Documents/Grabaciones/Video-Grupo4-20240107_210813-Grabaci%C3%B3n%20de%20la%20reuni%C3%B3n.mp4?csf=1&web=1&e=c46yFc&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
 ### Grupo: 4
 
 ### Integrantes
