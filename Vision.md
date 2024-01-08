@@ -5,6 +5,7 @@
 </h1>
 
 ### Grupo: 4
+Enlace: https://epnecuador-my.sharepoint.com/personal/santiago_salazar_epn_edu_ec/_layouts/15/stream.aspx?id=%2Fpersonal%2Fsantiago%5Fsalazar%5Fepn%5Fedu%5Fec%2FDocuments%2FGrabaciones%2FVideo%2DGrupo4%2D20240107%5F225401%2DGrabaci%C3%B3n%20de%20la%20reuni%C3%B3n%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview&ga=1
 
 ### Integrantes
 - Kevin Revelo
@@ -17,7 +18,7 @@
 # Visión del Proyecto
 
 ## Tema
-**Yoghismo** - Un traductor web alieado con la filosofía del Yopa
+**Yoghismo** - Un traductor web alieado con la filosofía del Yoga
 ## Objetivos
 El proyecto tiene como objetivo principal desarrollar una aplicación web interactiva centrada en la traducción de nombres de posturas de yoga, también conocidas como asanas, del sánscrito al español e inglés. Además, la aplicación proporcionará la capacidad de descomponer las palabras en sus morfemas, ofreciendo así una comprensión más profunda de la terminología sánscrita utilizada en el contexto del yoga.
 ## Objetivos específicos

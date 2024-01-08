@@ -5,7 +5,7 @@
 </h1>
 
 # Estándares de Codificación - Empresa Yoghismo
-
+Enlace: https://epnecuador-my.sharepoint.com/personal/santiago_salazar_epn_edu_ec/_layouts/15/stream.aspx?id=%2Fpersonal%2Fsantiago%5Fsalazar%5Fepn%5Fedu%5Fec%2FDocuments%2FGrabaciones%2FVideo%2DGrupo4%2D20240107%5F190530%2DGrabaci%C3%B3n%20de%20la%20reuni%C3%B3n%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview
 ## Convenciones Generales
 
 1. **Indentación:**
