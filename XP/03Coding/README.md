@@ -1,16 +1,21 @@
-# ESCUELA POLITÉCNICA NACIONAL
-## TECHNOWL S.A.
-# Sistema de traducción de posturas de yoga 
----
-Integrantes: 
-- Chalacama Erick
-- Román Paul
-- Salazar Santiago
-- Suntasig Ariel
-- Yánez David
+<h1 align="center">
+    Escuela Politécnica Nacional<br>
+    Facultad de Ingeniería en Sistemas<br>
+    Metodologías Ágiles<br>
+</h1>
 
-Versión: 2.0
----
+[Link evidencia](https://epnecuador-my.sharepoint.com/:v:/g/personal/jonathan_salazar04_epn_edu_ec/EU4OS1TMWxJJva0PRQidixQBPrsctWb7aTzrcp0ADS2Hww?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=MPhfNk)
+
+### Grupo: 4
+
+### Integrantes
+- Kevin Revelo
+- Paúl Román
+- Jonathan Salazar
+- Santiago Salazar
+- Sebastián Sanchez
+- Nathaly Simba
+
 ### La aplicación web "Yoghismo" se encuentra desplegada en: [Yoghismo-Vercel](https://technowl-yoga-project.vercel.app/) 
 
 ### Ejecución del sistema en entorno local

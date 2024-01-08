@@ -27,17 +27,17 @@
 
 6. Release Plan
 
-7. Diagrama conceptual
-
-8. Diagrama UML
+8. Diagrama UML - Diagrama COnceptual
+https://epnecuador-my.sharepoint.com/:v:/g/personal/paul_roman_epn_edu_ec/EY4x8LZs_1JLpyIDfNTXiBsB-EykMsPfO-yT04pHpjwzqQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=5JWKYi
 
 9. Prototipos
+https://epnecuador-my.sharepoint.com/:v:/g/personal/jonathan_salazar04_epn_edu_ec/EcNaJUMLHOdAhSKVo8h0nOoB0oP-8_pbDJIfrYBw_lHKqw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=QoYZFW
 
 10. Código colectivo
+https://epnecuador-my.sharepoint.com/:v:/g/personal/jonathan_salazar04_epn_edu_ec/EU4OS1TMWxJJva0PRQidixQBPrsctWb7aTzrcp0ADS2Hww?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=MPhfNk
 
-11. Refactorización
-
-12. Pruebas unitarias
+12. Pruebas unitarias - Integración
+https://epnecuador-my.sharepoint.com/:v:/g/personal/jonathan_salazar04_epn_edu_ec/EX3ku043MrdEkxphCmUTf44BRGtav5Pc6SbY89u2PnvIHg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=x8Yn6A
 
 13. Pruebas funcionales
 
