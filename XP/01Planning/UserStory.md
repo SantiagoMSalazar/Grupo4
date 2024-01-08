@@ -34,7 +34,7 @@
 |||
 
 
-|**N°:** 3| **Título:**Notificación al ingresar nombres de posturas inexistentes o con mala escritura|
+|**N°:** 3| **Título:** Notificación al ingresar nombres de posturas inexistentes o con mala escritura|
 |-|-|
 |**Prioridad**| Alta |
 |**Historia de usuario:**|**Como** usuario del sistema, **quiero** recibir una notificación cuando ingrese nombres de posturas inexistentes o con mala escritura de una postura en el sistema, **para** poder corregir la entrada fácilmente.|
