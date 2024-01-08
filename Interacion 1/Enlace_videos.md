@@ -14,35 +14,81 @@
 - Sebastián Sanchez
 - Nathaly Simba
 
-# Enlace de videos Interación 1
-1. WorkFlow
-https://epnecuador-my.sharepoint.com/personal/jonathan_salazar04_epn_edu_ec/_layouts/15/stream.aspx?id=%2Fpersonal%2Fjonathan%5Fsalazar04%5Fepn%5Fedu%5Fec%2FDocuments%2FGrabaciones%2FVideo%2DGrupo4%2D20240107%5F175440%2DGrabaci%C3%B3n%20de%20la%20reuni%C3%B3n%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview
-2. Team
-https://epnecuador-my.sharepoint.com/personal/jonathan_salazar04_epn_edu_ec/_layouts/15/stream.aspx?id=%2Fpersonal%2Fjonathan%5Fsalazar04%5Fepn%5Fedu%5Fec%2FDocuments%2FGrabaciones%2FVideo%2DGrupo4%2D20240107%5F182258%2DGrabaci%C3%B3n%20de%20la%20reuni%C3%B3n%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview
-3. Visión
+# Lista de enlaces
 
-4. Documento de estándares de programación
-https://epnecuador-my.sharepoint.com/personal/santiago_salazar_epn_edu_ec/_layouts/15/stream.aspx?id=%2Fpersonal%2Fsantiago%5Fsalazar%5Fepn%5Fedu%5Fec%2FDocuments%2FGrabaciones%2FVideo%2DGrupo4%2D20240107%5F190530%2DGrabaci%C3%B3n%20de%20la%20reuni%C3%B3n%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview
+1. Visión
 
-5. Manual de Usuario
+https://epnecuador-my.sharepoint.com/:v:/g/personal/santiago_salazar_epn_edu_ec/ERr6_0RfLK5JnQin8laz1nwBNAM5qZ2FB1fvsVKd1VMnIA?e=f0jxGK
 
-6. Release Plan
+2. Workflow
 
-8. Diagrama conceptual - Diagrama UML
-https://epnecuador-my.sharepoint.com/:v:/g/personal/paul_roman_epn_edu_ec/ETBbSojnLi5AqJv3ftf4RNsBF71ufVjsxZwxL7vW_ti91Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=bgs6m5
+https://epnecuador-my.sharepoint.com/:v:/g/personal/santiago_salazar_epn_edu_ec/ESk5FGgCiwlFoX7IMPO63QkBj84SBeMlxTNXNBGcDK6r6w?e=crSReC
 
-9. Prototipos
-https://epnecuador-my.sharepoint.com/:v:/g/personal/jonathan_salazar04_epn_edu_ec/EVMeOT51wlFGv5hQYghpXsIBQ3ksGzAVMuLvXWkuGCOHVQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=pUCVn7
+3. Team
 
-10. Código colectivo
-https://epnecuador-my.sharepoint.com/:v:/g/personal/jonathan_salazar04_epn_edu_ec/EQFz7Iutb89Op6hPmfeTb5oBNC9nxqg101KuU9hYlcjq7g?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=6aCfkd
+https://epnecuador-my.sharepoint.com/:v:/g/personal/santiago_salazar_epn_edu_ec/EaiLes3J_-5LmFkirG5xl0kBcZz1xMdz8BxaMuzDzLsxmw?e=7vDpYV
 
-12. Pruebas unitarias - Integración
-https://epnecuador-my.sharepoint.com/:v:/g/personal/jonathan_salazar04_epn_edu_ec/EePxMYoR_GhGutlN43xPPKIBoNwuWkG-mnF-KRwJFYfxmA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=B9f5hB
+4. Release Plan
 
-13. Pruebas funcionales
+https://epnecuador-my.sharepoint.com/:v:/g/personal/santiago_salazar_epn_edu_ec/EdaLHAFpKKlOvFY-NKRCcYQB9LuldWD2kph6o_yjthOaOw?e=ggiuVN
 
-14. Criterios de aceptación
+5. Plan de interaciones
 
-15. Historias de usuario
-https://epnecuador-my.sharepoint.com/personal/santiago_salazar_epn_edu_ec/_layouts/15/stream.aspx?id=%2Fpersonal%2Fsantiago%5Fsalazar%5Fepn%5Fedu%5Fec%2FDocuments%2FGrabaciones%2FVideo%2DGrupo4%2D20240107%5F210121%2DGrabaci%C3%B3n%20de%20la%20reuni%C3%B3n%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview&ga=1 
+https://epnecuador-my.sharepoint.com/:v:/g/personal/santiago_salazar_epn_edu_ec/EQe-KIg6Ka5Dmod64ryoUHYBSCpzcbqRsKRDN-Msm09yAw?e=pGVNsq
+
+6. Estándar de Codificación
+
+https://epnecuador-my.sharepoint.com/:v:/g/personal/santiago_salazar_epn_edu_ec/EaoJVepiYOhFnXiQcMbTPM8BxDZQ6OUEKQOvn_mlmIEM-w?e=bsZfFQ
+
+## Iteración 1
+
+1. Historias de usuario - Nathaly
+
+https://epnecuador-my.sharepoint.com/:v:/g/personal/santiago_salazar_epn_edu_ec/EZk5_ap-9AZGuf8bS77BSqMBn2hHVJgO8xiBE1PvmYmUGQ?e=i1Cgrz
+
+2. Prototipo de diseño
+
+https://epnecuador-my.sharepoint.com/:v:/g/personal/santiago_salazar_epn_edu_ec/EVCJMdiZcXhOtGXOnA5qpjUBzi624bpw81CkK5m-rEdW-Q?e=N60llp
+
+3. Codificación y pruebas
+
+https://epnecuador-my.sharepoint.com/:v:/g/personal/santiago_salazar_epn_edu_ec/EUhUODrFc6NJkXFIIedZWvgByODnBePDCrWas0r-Bmjiiw?e=9oM2Fu
+
+4. Pruebas de Aceptación
+
+https://epnecuador-my.sharepoint.com/:v:/g/personal/santiago_salazar_epn_edu_ec/ESNylbVdr9pEjPhsFgxltN0BET3jLqVqR3oxm0cgtL25kA?e=EEyhzg
+
+5. Pruebas unitarias
+
+https://epnecuador-my.sharepoint.com/:v:/g/personal/santiago_salazar_epn_edu_ec/Ed8YZSqSWEVCnkotqxC5jL8BeJdr_20IHfH3U_3FN8Dvcg?e=rXfd8o
+
+6. Aplicativo
+
+https://epnecuador-my.sharepoint.com/:v:/g/personal/santiago_salazar_epn_edu_ec/EZ8H-yeOPlJPi9-LTHJVpuwBdMKey9pYllG9sdR1sefusQ?e=DGtYhi
+
+
+## Iteración 2
+
+1. Historias de usuario - Nathaly
+
+https://epnecuador-my.sharepoint.com/:v:/g/personal/santiago_salazar_epn_edu_ec/EcQ3UDaPUTlNpXOAha4jXNQB1I_kQAzRYZsjqMFVWj6suA?e=4jCwmZ
+
+2. Prototipo de diseño
+
+https://epnecuador-my.sharepoint.com/:v:/g/personal/santiago_salazar_epn_edu_ec/EQ5Dz8DuQXJGj7_iU7RrvdQBF9lY4F2U6JUB-1RXdz5qYA?e=QsGjmw
+
+3. Codificación y pruebas
+
+https://epnecuador-my.sharepoint.com/:v:/g/personal/santiago_salazar_epn_edu_ec/EfkgCyosqmxFg1SAwxkp0k8BnZZWxf2uFnNl8FHWR8wbgw?e=HBumMb
+
+4. Pruebas de Aceptación
+
+https://epnecuador-my.sharepoint.com/:v:/g/personal/santiago_salazar_epn_edu_ec/EXlBQtKJ_vFEvHCG5fMLXnwBOC67uqQiA0IJr5Jp9_5sjw?e=J8nfGh
+
+5. Pruebas unitarias
+
+https://epnecuador-my.sharepoint.com/:v:/g/personal/santiago_salazar_epn_edu_ec/ESm8jZG46blJqTSLQGFNKi0Bq00EHi7ITDftYyx_T3qbhw?e=X7tj3x
+
+6. Aplicativo
+
+https://epnecuador-my.sharepoint.com/:v:/g/personal/santiago_salazar_epn_edu_ec/EV7thprxruNFiwgHGRPNzaABWDfBcWfstpuNmc4Sf4gUQg?e=7Oe6WJ
