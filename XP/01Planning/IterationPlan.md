@@ -19,7 +19,6 @@
 | Iteración | Prioridad | Fase        | Artefacto    | Descripción         | Asignado a | Total Horas |
 |-----------|-----------|-------------|--------------|---------------------|------------|-------------|
 | 1         | Alta      | Planning  | Historias de usuario | Recolectar necesidades del cliente | Santiago, Sebastián       | 2          |
-| 1         | Alta      | Planning  | Plan de iteración | Resúmen del proceso de desarrollo | Sebastián       | 1          |
 | 1         | Alta     | Design     | Casos de uso  | Descripción del comportamiento del aplicativo | Paúl     | 1          |
 | 1         | Alta     | Design     | Diagramas de clase  | Validar funcionalidad| Paúl    | 1         |
 | 1         | Alta     | Coding     | Prototipo  | Vista previa del aplicativo| Paúl     | 1          |
